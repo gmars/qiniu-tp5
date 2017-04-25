@@ -1,6 +1,6 @@
 {
     "name": "gmars/tp5-qiniu",
-    "description": "a library for qiniu by thinkphp 5",
+    "description": "这是一个基于ThinkPHP5框架的扩展库，主要解决了文件上传七牛云的需求。当然在后边的更新中会提供七牛云中文件的管理功能以及bucket的管理，让tp5上传七牛云非常便捷。",
     "type": "library",
     "license": "MIT",
     "authors": [
