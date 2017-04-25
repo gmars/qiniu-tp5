@@ -1,0 +1,21 @@
+{
+    "name": "gmars/tp5-qiniu",
+    "description": "a library for qiniu by thinkphp 5",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weiyongqiang",
+            "email": "weiyongqiang@weiyongqiang.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "gmars\\qiniu\\": ""
+        }
+    },
+}
