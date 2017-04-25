@@ -5,6 +5,12 @@ qiniu-tp5
 
 composer require gmars/tp5-qiniu
 
+如果该方法安装不成功，请在项目根目录下的composer.json的require中添加
+
+"gmars/tp5-qiniu": "dev-master"
+
+然后使用cmd进入项目根目录下运行composer update
+
 使用方式：
 
 一、配置使用
